@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rob Scherer
 - 👀 I’m interested joining a team as a Software Engineer.
-- 🌱 I’m currently practicing full-stack development using the MERN stack.
+- 🌱 I’m currently a full stack engineer creating apps as a freelancer.
 - 💞️ I’m looking to collaborate on all things development.
 - 📫 How to reach me: robscherer6@gmail.com
 
