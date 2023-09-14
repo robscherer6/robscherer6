@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rob Scherer
-- 👀 I’m interested in joining a team as a full-time Software Engineer.
-- 🌱 I’m currently a full stack engineer working as an Intern at iHire.
+- 👀 I’m interested in continuing to develop my skills as a Software Engineer.
+- 🌱 I’m currently a full stack engineer.
 - 💞️ I’m looking to collaborate on all things development.
 - 📫 How to reach me: robscherer6@gmail.com
 
